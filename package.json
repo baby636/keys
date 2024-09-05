@@ -11,12 +11,12 @@
     },
     "devDependencies": {
         "axios": "^0.19.0",
-        "cross-env": "^5.1",
+        "cross-env": "^6.0.0",
         "es6-promise": "^4.2.8",
-        "laravel-mix": "^4.1.2",
-        "laravel-mix-purgecss": "^4.1.0",
-        "resolve-url-loader": "^3.1.0",
-        "tailwindcss": "^0.6.0",
+        "laravel-mix": "^6.0.30",
+        "laravel-mix-purgecss": "^5.0.0",
+        "resolve-url-loader": "^4.0.0",
+        "tailwindcss": "^2.0.4",
         "vue-template-compiler": "^2.6.10"
     }
 }
